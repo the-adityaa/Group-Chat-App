@@ -1,0 +1,22 @@
+# IntelliJ
+.idea/
+out/
+*.iml
+
+# Backend
+live-chat-backend/target/
+live-chat-backend/uploads/
+
+# Frontend
+live-chat-frontend/node_modules/
+live-chat-frontend/dist/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS
+Thumbs.db
+.DS_Store
