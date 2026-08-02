@@ -5,7 +5,7 @@ import axios from 'axios';
 // export const baseURL = "http://192.168.0.102:8080";
 
 export const baseURL =
-  "https://dan-monitoring-databases-recycling.trycloudflare.com";
+  "https://computer-rpg-times-tracker.trycloudflare.com";
 
 
 export const httpClient = axios.create({
